@@ -1,10 +1,4 @@
-# Hi, I'm Aral Roca
-
-<div align="right">
-  <a href="https://aralroca.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
+# Hello 👋, I'm Oluwayetty
 
 <p align="center">
   <a href="https://aralroca.com">
