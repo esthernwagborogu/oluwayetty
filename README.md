@@ -13,7 +13,7 @@
 
 I got bored of Software Engineering after spending 4 years and transition to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
 In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving 
-![YouTube community]([https://img.shields.io/youtube/channel/subscribers/UCQv5a8Ey68H8Rt_BVFiVzxA)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=oluwayetty&count_private=true&show_icons=true&include_all_commits=true" alt="Top language used in my repos" />
@@ -22,7 +22,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-00599C?style=flat-square&logo=JupyterNotebook)
