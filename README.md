@@ -12,7 +12,7 @@
 </p>
 
 I got bored of Software Engineering after spending 4 years and transition to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
-In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving ![Online Community](https://www.youtube.com/c/Oluwayetty)
+In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving [Online Community](https://www.youtube.com/c/Oluwayetty)
 
 <p>
     <a href="https://oluwayetty.com/">
