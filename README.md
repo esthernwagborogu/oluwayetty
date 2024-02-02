@@ -1,7 +1,7 @@
 # Hello 👋, I'm Oluwayetty
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-for.data.geeks-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/for.data.geeks/)](https://instagram.com/for.data.geeks)
 [![Youtube Badge](https://img.shields.io/badge/-Oluwayetty-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Oluwayetty)](https://www.youtube.com/c/Oluwayetty)
 [![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
 
