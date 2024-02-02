@@ -28,8 +28,10 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -44,6 +46,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 I've stopped blogging because I'v ebeen spending time doing Vlogs but below are some of my amazing articles. I promise they won't bore you.
 📖 &nbsp;&nbsp;[Medium Page](https://medium.com/@oluwayetty): Last 5 articles
