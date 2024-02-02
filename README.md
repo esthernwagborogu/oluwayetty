@@ -39,7 +39,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 
 ![Ruby]( https://img.shields.io/badge/RubyOnRails-D30001?style=flat-square&logo=Ruby)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Anaconda](https://img.shields.io/badge/Anaconda-%44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%44A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
