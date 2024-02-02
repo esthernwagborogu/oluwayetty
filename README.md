@@ -15,9 +15,6 @@ I got bored of Software Engineering after spending 4 years and transition to Dat
 In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join my online community via this [link](https://www.youtube.com/c/Oluwayetty) . 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwayetty&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
-  <br />
-
   <img width="" src="https://github-readme-stats.vercel.app/api?username=oluwayetty&count_private=true&show_icons=true&include_all_commits=true" alt="Top language used in my repos" />
   <br />
   <br />
