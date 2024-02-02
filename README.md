@@ -46,7 +46,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange-%F37626?style=flat-square&logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-%F37626?style=flat-square&logo=Jupyter)
 ![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
