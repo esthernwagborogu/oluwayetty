@@ -37,11 +37,11 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![Ruby]( https://img.shields.io/badge/Ruby%on%Rails-D30001?style=flat-square&logo=Ruby)
+![Ruby]( https://img.shields.io/badge/RubyOnRails-D30001?style=flat-square&logo=Ruby)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
-![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=Tesla)
+![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=JupyterNotebook)
 ![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
