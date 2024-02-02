@@ -35,7 +35,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![FastAPI](https://img.shields.io/badge/FastAPI-%009688?style=flat-square&logo=FastAPI)
+![FastAPI](https://img.shields.io/badge/FastAPI-%009688?style=flat-square&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-%092E20?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-%000000?style=flat-square&logo=Flask)
 
