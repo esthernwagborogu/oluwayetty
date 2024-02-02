@@ -16,25 +16,36 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
   
 ### ⚡ Technologies
 
-![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
-![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-00599C?style=flat-square&logo=JupyterNotebook)
-![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
+![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-00599C?style=flat-square&logo=JupyterNotebook)
+![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 
 ### 📖 I've stopped blogging because I've been spending time on Vlogs but below are some of my amazing articles. I promise they won't bore you.
  
