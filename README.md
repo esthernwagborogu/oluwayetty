@@ -28,7 +28,6 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Macos](https://img.shields.io/badge/macos-%000000?style=flat-square&logo=macos)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -45,6 +44,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-keras-D00000?style=flat-square&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%F37626?style=flat-square&logo=Jupyter)
 ![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
