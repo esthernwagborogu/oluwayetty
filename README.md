@@ -28,6 +28,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-face&logo=macOS)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -35,9 +36,9 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-%092E20?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
 ![Ruby]( https://img.shields.io/badge/RubyOnRails-D30001?style=flat-square&logo=Ruby)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
