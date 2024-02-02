@@ -35,16 +35,15 @@ I've stopped blogging because I'v ebeen spending time doing Vlogs but below are 
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Technology and software
-* Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
-* Nutrition
-* Nature
+* Spreading Positivity and Love
+* Travel 
+* Bible
+* Vlogging ([Youtube](https://www.youtube.com/c/Oluwayetty))
+* Food and Nutrition
+* Travel and Nature
 
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
+<a href="https://oluwayetty.com">
   <table align="right">
       <tr>
           <td>
