@@ -12,7 +12,7 @@
 </p>
 
 I got bored of Software Engineering after spending 4 years and transition to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
-In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join my online community ![Python]([https://img.shields.io/youtube/channel/subscribers/UCQv5a8Ey68H8Rt_BVFiVzxA] via this [link](https://www.youtube.com/c/Oluwayetty) 
+In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving YouTube community ![Python]([https://img.shields.io/youtube/channel/subscribers/UCQv5a8Ey68H8Rt_BVFiVzxA) via this [link](https://www.youtube.com/c/Oluwayetty) 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=oluwayetty&count_private=true&show_icons=true&include_all_commits=true" alt="Top language used in my repos" />
