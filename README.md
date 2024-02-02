@@ -27,6 +27,8 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
+
+
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-face&logo=macOS)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -39,6 +41,8 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-%092E20?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+
+
 
 ![Ruby]( https://img.shields.io/badge/RubyOnRails-D30001?style=flat-square&logo=Ruby)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
