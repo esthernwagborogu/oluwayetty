@@ -18,7 +18,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api?username=oluwayetty&count_private=true&show_icons=true&include_all_commits=true" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=oluwayetty&count_private=true&show_icons=true&include_all_commits=true" />
   <br />
 </div>
 
