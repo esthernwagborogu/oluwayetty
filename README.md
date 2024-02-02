@@ -15,7 +15,7 @@ I got bored of Software Engineering after spending 4 years and transition to Dat
 In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving ![Online Community](https://www.youtube.com/c/Oluwayetty)
 
 <p>
-    <a href="https://wangchujiang.com/">
+    <a href="https://oluwayetty.com/">
       <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=oluwayetty&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
 </p>
