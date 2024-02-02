@@ -14,8 +14,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
     </a>
 </p>
   
-## ⚡ Technologies
-
+### ⚡ Technologies
 
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
@@ -37,7 +36,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-I've stopped blogging because I'v ebeen spending time doing Vlogs but below are some of my amazing articles. I promise they won't bore you.
+### I've stopped blogging because I'v ebeen spending time doing Vlogs but below are some of my amazing articles. I promise they won't bore you.
 📖 &nbsp;&nbsp;[Medium Page](https://medium.com/@oluwayetty): Last 5 articles
  
 * [Own Your Own Learning](https://medium.com/towards-data-science/own-your-own-learning-aa86bd9a397f?source=user_profile) 
@@ -48,7 +47,7 @@ I've stopped blogging because I'v ebeen spending time doing Vlogs but below are 
 
 <br />
 
-#### 🧡 &nbsp;&nbsp;My passions
+### 🧡 &nbsp;&nbsp;My passions
 
 * Spreading Positivity and Love
 * Travel 
