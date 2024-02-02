@@ -28,7 +28,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![macos](https://img.shields.io/badge/macos-%000000?style=flat-square&logo=macos)
+![Macos](https://img.shields.io/badge/macos-%000000?style=flat-square&logo=macos)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
