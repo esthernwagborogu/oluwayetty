@@ -16,11 +16,10 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 
 <p>
     <a href="https://wangchujiang.com/">
-      <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=jaywcjlove&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+      <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=oluwayetty&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
-  </p>
+</p>
   
-
 ## ⚡ Technologies
 
 
