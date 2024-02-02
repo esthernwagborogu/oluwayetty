@@ -11,27 +11,28 @@
   </a>
 </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+I got bored of Software Engineering after spending 4 years and transition to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
+In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join my online community via this [link](https://www.youtube.com/c/Oluwayetty) . 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwayetty&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <small>I speak to Data and Vice Versa - big fan of Jupyter Notebooks. 😛</small>
   <br />
   <br />
 </div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+I've stopped blogging because I'v ebeen spending time doing Vlogs but below are some of my amazing articles. I promise they won't bore you :) 
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
+#### 📖 &nbsp;&nbsp;[oluwayetty.com](https://oluwayetty.com): Last 5 articles
  
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer) 
-* [Creating Scalable and Reusable React Components](https://aralroca.com/blog/creating-scalable-and-reusable-react-components) 
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://aralroca.com/blog/i18n-translations-nextjs-13-app-dir) 
-* [Teaful DevTools Released!](https://aralroca.com/blog/teaful-devtools) 
-* [Teaful: tiny, easy and powerful React state management](https://aralroca.com/blog/teaful)
+* [Own Your Own Learning](https://medium.com/towards-data-science/own-your-own-learning-aa86bd9a397f?source=user_profile) 
+* [My first contribution to an open source project](https://code.likeagirl.io/my-first-contribution-to-an-open-source-project-bd60f33b519b) 
+* [Being a female Developer](https://medium.com/@Yettie/on-taking-chances-99851da14ddf) 
+* [On taking chances!](https://medium.com/@Yettie/on-taking-chances-99851da14ddf) 
+* [Oh! Failure…How Inspiring can it be?](https://medium.com/@Yettie/oh-failure-how-inspiring-can-it-be-be9cc0c72cc0)
 
 <br />
 
