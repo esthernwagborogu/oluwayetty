@@ -23,9 +23,6 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 </div>
 
 I've stopped blogging because I'v ebeen spending time doing Vlogs but below are some of my amazing articles. I promise they won't bore you :) 
-
-<br />
-
 #### 📖 &nbsp;&nbsp;[Medium Page](https://medium.com/@oluwayetty): Last 5 articles
  
 * [Own Your Own Learning](https://medium.com/towards-data-science/own-your-own-learning-aa86bd9a397f?source=user_profile) 
