@@ -41,7 +41,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-00599C?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
-![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=JupyterNotebook)
+![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=Jupyter)
 ![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
