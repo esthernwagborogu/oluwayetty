@@ -19,7 +19,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
   <br />
   <small>I speak to Data and Vice Versa - big fan of Jupyter Notebooks. 😛</small>
 
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwayetty&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=oluwayetty&count_private=true&show_icons=true&include_all_commits=true" alt="Top language used in my repos" />
   <br />
   <small>I speak to Data and Vice Versa - big fan of Jupyter Notebooks. 😛</small>
   <br />
