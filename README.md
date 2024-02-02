@@ -26,7 +26,7 @@ I've stopped blogging because I'v ebeen spending time doing Vlogs but below are 
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[oluwayetty.com](https://oluwayetty.com): Last 5 articles
+#### 📖 &nbsp;&nbsp;[Medium Page]([https://oluwayetty.com)](https://medium.com/@oluwayetty): Last 5 articles
  
 * [Own Your Own Learning](https://medium.com/towards-data-science/own-your-own-learning-aa86bd9a397f?source=user_profile) 
 * [My first contribution to an open source project](https://code.likeagirl.io/my-first-contribution-to-an-open-source-project-bd60f33b519b) 
