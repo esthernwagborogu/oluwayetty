@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Oluwayetty-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Oluwayetty)](https://www.youtube.com/c/Oluwayetty)
 [![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
 
-I got bored of Software Engineering after spending 4 years in my role as an SE and transitioned to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
+I got bored of Software Engineering after spending 4 years in my role as an SE and transitioned to Data Science, I am currently a Senior Data Scientist where I lead various R&D projects ranging from NLP to Computer Vision.
 In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving [Online Community](https://www.youtube.com/c/Oluwayetty)
 
 <p>
