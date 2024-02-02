@@ -1,14 +1,11 @@
 # Hello 👋, I'm Oluwayetty
 
 <p align="center" style="margin: -20px 0 30px">
-
-  <a href="https://www.linkedin.com/in/sayetunde/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:oluwayettyservices@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
-  </a>
+  [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+  [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+  [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+  [![Medium Badge](https://img.shields.io/badge/-@oluwayetty?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@oluwayetty/)](https://medium.com/@oluwayetty)
+  [![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
 </p>
 
 I got bored of Software Engineering after spending 4 years and transition to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
