@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Youtube Badge](https://img.shields.io/badge/-Oluwayetty-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Oluwayetty)](https://www.youtube.com/c/Oluwayetty)
 [![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
 
 I got bored of Software Engineering after spending 4 years and transition to Data Science, I am currently a Senior Data Scientist where Ilead various R&D projects ranging from NLP to Computer Vision.
